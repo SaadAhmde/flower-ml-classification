@@ -17,6 +17,6 @@ This project uses a **flower dataset** to classify species using Logistic Regres
 3. Check predictions in `predictions.csv`
 
 ## requirements
-pandas
-scikit-learn
-seborn
+-pandas
+-scikit-learn
+-seborn
